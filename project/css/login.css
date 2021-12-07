@@ -1,0 +1,15 @@
+/* 스타일 초기화 */
+*{
+   
+    font-family: '맑은 고딕','Malgun Gothic',Gothic,sans-serif;
+}
+body{
+    background-color: #f6f6f6;
+    width:960px;
+    margin:0 auto;
+}
+#page-wrap{
+    width:250px;
+    margin: 0 auto;
+    text-align: center;
+}
